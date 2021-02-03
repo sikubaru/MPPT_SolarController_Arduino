@@ -1,16 +1,4 @@
 
-/* ==========================================================
- *  This sketch(code) was programmed by THE ELECTRO MENTOR
- *  and was downloaded from theelectromentor.com
- *  Kindly visit the site for more information and other
- *  exciting Arduino projects. 
- *  Mail Us : info.arduinoguy@gmail.com
- *  Please subcribe to my Youtube Channel: 
- *  https://www.youtube.com/channel/UCYBJ0K-M3fl5DBPCb5aJWDQ
- *  for more electronics and Arduino Projects. Thank You.
- *  ==========================================================
- */
- 
 #include "TimerOne.h"
 #include "LiquidCrystal_I2C.h"
 #include "Wire.h" 
